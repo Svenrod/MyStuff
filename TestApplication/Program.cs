@@ -6,9 +6,9 @@ namespace TestApplication
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
-            Console.WriteLine("Hello World Again!");
-            Console.WriteLine("Hello World Again again!");
+            System.Console.WriteLine("Hello World!");
+            System.Console.WriteLine("Hello World Again!");
+            System.Console.WriteLine("Hello World Again again!");
 
             Console.WriteLine("Svens Ändring");
             Console.WriteLine("Oscars ändring");
