@@ -1,13 +1,17 @@
-﻿namespace TestApplication
+﻿using System;
+
+namespace TestApplication
 {
     class Program
     {
         static void Main(string[] args)
         {
-            System.Console.WriteLine("Hello World!");
-            System.Console.WriteLine("Hello World Again!");
-            System.Console.WriteLine("Hello World Again again!");
-            System.Console.WriteLine("Hello from Oscar");
+            Console.WriteLine("Hello World!");
+            Console.WriteLine("Hello World Again!");
+            Console.WriteLine("Hello World Again again!");
+
+            Console.WriteLine("Svens Ändring");
+            Console.WriteLine("Oscars ändring");
         }
     }
 }
