@@ -12,6 +12,8 @@ namespace TestApplication
 
             Console.WriteLine("Svens Ändring");
             Console.WriteLine("Oscars ändring");
+
+            Console.WriteLine("Svens Nya Ändring");
         }
     }
 }
